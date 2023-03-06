@@ -1,3 +1,10 @@
 ## Zero Day Project
 
-> > This project is a task from ALX_ORGANISATION.
+'''
+#include <stdio.h>
+
+int main() {
+    printf("Hello peers, this is a tast from ALX Organisation.");
+}
+
+'''
